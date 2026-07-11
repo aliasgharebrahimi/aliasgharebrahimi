@@ -1,5 +1,7 @@
 <div align="center">
-
+<h1 style="color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; font-size: 50px; letter-spacing: 2px;">
+    Ali Asghar Ebrahimi
+</h1>
 <!-- بنر اصلی با نام شما به صورت گرافیکی و بسیار شیک -->
 <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=ALIASGHAR%20EBRAHIMI&fontSize=70&animation=fadeIn" width="100%" />
 
