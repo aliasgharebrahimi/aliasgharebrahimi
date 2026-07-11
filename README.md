@@ -1,64 +1,55 @@
-<div align="center">
-
-<!-- بنر جذاب بالای صفحه -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Aliasghar%20Ebrahimi&fontSize=70&animation=fadeIn" width="100%" />
-
-<h1> � Hello World, I'm Aliasghar! </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Deep+Learning+Enthusiast;Computer+Vision+Researcher;Artificial+Intelligence+Engineer" alt="Typing SVG" />
-</p>
-
----
-
-</div>
-
-### 🚀 About Me
-<p align="left">
-  - 🎓 **Currently focusing :** Deep Learning architectures and Neural Network research.
-  - 💻 **Pasionate about:** Computer Vision, Image Processing, and optimizing deep models.
-  - 🎯 **Goal:** Building intelligent systems that can see and understan the world.
-</p>
-
----
-
-### 🛠️ Tech Stack & Toolbox
-
-<div align="left"
-
-**🧠 Artificial Intelligence & Data Science:**
-![Python](https://img.shield.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**🛠️ Tools & Version Control:**
-![Git](https://imgshields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Analytic
+# 🚀 Welcome to My Professional Space!
 
 <div align="center">
-
-<!-- نمودار آمار اصلی -->
-<img src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-
-<!-- نمودار زبان‌های برنامه‌نویسی -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Aliasghar%20Ebrahimi&fontSize=50" width="100%" />
 </div>
 
 ---
 
-### � Connect with Me
+### 👨‍💻 About Me
+**I am a dedicated researcher and developer deeply immersed in the world of Artificial Intelligence.** 
+
+My journey revolves around decoding the complexities of neural networks and pushing the boundaries of what machines can perceive. I don't just write code; I build architectures that mimic biological intelligence.
+
+- 🔭 **Current Research:** Exploring advanced architectures in Deep Learning and Convolutional Neural Networks (CNNs).
+- 🧠 **Core Focus:** Computer Vision, Image Segmentation, and Neural Layer Optimization.
+- 🛠️ **Methodology:** Combining rigorous mathematical research with robust Python-based implementation.
+- 🌱 **Continuous Learning:** Constantly experimenting with the latest papers from CVPR and NeurIPS.
+
+---
+
+### 🛠️ Technical Arsenal
+
+#### 🧠 AI & Machine Learning Ecosystem
+| Tool | Purpose |
+| :--- | :--- |
+| **Python** | Primary language for AI development |
+| **PyTorch** | Deep Learning framework for research |
+| **OpenCV** | Computer Vision and real-time image processing |
+| **NumPy** | High-performance scientific computing |
+| **Pandas** | Advanced data manipulation and analysis |
+| **Matplotlib** | Data visualization and plotting |
+
+#### ⚙️ Development & DevOps
+- **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- **Editor:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- **Environment:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📊 Performance & Statistics
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=radical" alt="Aliasghar's GitHub Stats" />
+  <br/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -67,6 +58,6 @@
 
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aliasgharebrahimi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+</p>
