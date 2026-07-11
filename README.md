@@ -8,8 +8,6 @@
 
 <br/>
 
-<!-- استفاده از یک تصویر گرافیکی برای پر کردن فضا و زیبایی -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6ZzR3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv0cKdk4/giphy.gif" width="300" />
 
 </div>
 
