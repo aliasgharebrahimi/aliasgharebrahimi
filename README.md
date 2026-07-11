@@ -3,7 +3,6 @@
     Ali Asghar Ebrahimi
 </h1>
 <!-- بنر اصلی با نام شما به صورت گرافیکی و بسیار شیک -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=ALIASGHAR%20EBRAHIMI&fontSize=70&animation=fadeIn" width="100%" />
 
 <!-- تایپ متحرک تخصص‌ها برای جذابیت بصری متنی -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=AI+Researcher;Deep+Learning+Specialist;Computer+Vision+Engineer" alt="Typing SVG" />
@@ -58,8 +57,7 @@
 ### 📊 ANALYTICS & ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=dracula&hide_border=true" width="40%" />
+  
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgharebrahimi&theme=dracula" width="88%" />
 </div>
@@ -80,7 +78,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
-</div>
