@@ -1,63 +1,49 @@
 <div align="center">
 
-<!-- بنر اول: انیمیشن و اسم -->
-<img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=250&section=header&text=ALIASGHAR%20EBRAHIMI&fontSize=70&animation=fadeIn" width="100%" />
+<!-- بنر اصلی با نام شما به صورت گرافیکی و بسیار شیک -->
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=ALIASGHAR%20EBRAHIMI&fontSize=70&animation=fadeIn" width="100%" />
 
-<!-- تایپ متحرک با استایل متفاوت -->
+<!-- تایپ متحرک تخصص‌ها برای جذابیت بصری متنی -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=AI+Researcher;Deep+Learning+Specialist;Computer+Vision+Engineer" alt="Typing SVG" />
 
 <br/>
-
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCHER-00FFCC?style=for-the-badge" />
 
 </div>
 
 ---
 
-### 💫 INTRODUCTIO
+### 📑 PROFESSIONAL SUMMARY
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-RESEARCHING-00FFCC?style=for-the-badge&logo=target&logoColor=black" />
+<div align="left">
+  <p>
+    Dedicated <b>AI Researcher & Engineer</b> focused on the development of advanced neural architectures. 
+    My expertise lies in bridging the gap between <b>Mathematical Theory</b> and <b>Scalable Deep Learning</b> implementations.
+  </p>
+  <p>
+    🚀 Specialized in Computer Vision, Generative Models, and High-Performance Computing.
+  </p>
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="40%">
-      <img src="https://avatars.githubusercontent.com/u/1" width="120" style="border-radius: 50%;" />
-    </td>
-    <td align="left">
-      <h4>✨ <b>Who Am I?</b></h4>
-      <p>
-        I am a specialized <b>AI Researcher</b> dedicated to unlocking the mysteries of neural intelligence. 
-        My work focuses on the intersection of <b>Mathematical Rigor</b> and <b>Deep Learning Architectures</b>.
-      </p>
-      <p>
-        🚀 <i>Pushing the boundaries of what machines can se and understand.</i>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 🛠 TECH STACK & TOOLBOX
+### 🛠️ TECHNICAL EXPERTISE
 
-<div align="center">
+<div align="left">
 
-#### 🧠 Artificial Intelligenc & Data Science
+#### 🧠 Artificial Intelligence & Math
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-<br/>
-
-#### 💻 Systems & Workflow
+#### 💻 Development Environment
 <p>
-  <img src="http://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -67,10 +53,10 @@
 
 ---
 
-### 📊 PERFORMANCE METRICS
+### 📊 ANALYTICS & ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.verce.app/api?username=aliasgharebrahimi&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=dracula&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=dracula&hide_border=true" width="40%" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgharebrahimi&theme=dracula" width="88%" />
@@ -78,10 +64,10 @@
 
 ---
 
-### 🌐 CONNECT & COLLABORATE
+### 🤝 CONNECT WITH ME
 
 <div align="center">
-  <a hre="https://www.linkedin.com/in/aliasghar-ebrahimi-686276421/">
+  <a href="https://www.linkedin.com/in/aliasghar-ebrahimi-686276421/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aliasghar.deeplearning.26@gmail.com">
@@ -94,5 +80,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
 </div>
