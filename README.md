@@ -68,7 +68,7 @@
 ### 🤝 CONNECT WITH ME
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aliasghar-ebrahimi-686276421/">
+  <a href="https://www.linkedin.com/in/ali-asghar-ebrahimi-686276421/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aliasghar.deeplearning.26@gmail.com">
