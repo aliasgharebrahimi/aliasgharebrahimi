@@ -2,6 +2,8 @@
 <h1 style="color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; font-size: 50px; letter-spacing: 2px;">
     Ali Asghar Ebrahimi
 </h1>
+<br>
+<h3> My main frameworks at a glance </h3>
 <img src="./Pytorch-Python-Opencv.jpg" alt="My main frameworks at a glance" />
 <!-- بنر اصلی با نام شما به صورت گرافیکی و بسیار شیک -->
 
