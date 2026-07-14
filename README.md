@@ -73,6 +73,17 @@
   <a href="https://www.linkedin.com/in/ali-asghar-ebrahimi-686276421/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
+  <!-- آیکون Kaggle -->
+  <a href="https://www.kaggle.com/aliasgharebrahimi26">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+
+  <!-- آیکون سایت شخصی -->
+  <a href="https://aliasgharebrahimi.github.io/">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
   <a href="mailto:aliasghar.deeplearning.26@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
