@@ -81,7 +81,6 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 
-    <!-- آیکون Stack Overflow -->
   <a href="https://stackoverflow.com/users/32938069/aliasgharebrahimi">
     <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
