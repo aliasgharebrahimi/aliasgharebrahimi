@@ -64,6 +64,7 @@
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgharebrahimi&theme=dracula" width="88%" />
 </div>
+<hr>
 
 ---
 
