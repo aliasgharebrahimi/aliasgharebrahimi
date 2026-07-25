@@ -19,7 +19,7 @@ Dedicated **AI Researcher & Engineer** focused on advanced neural architectures.
 ---
 
 ### 🚀 FEATURED PROJECTS
-*   [**Project Name 1**](https://github.com/your-username/repo1): Brief description of the problem solved and the impact (e.g., "Achieved 95% accuracy in...").
+*   [**ai-math**](https://github.com/aliasgharebrahimi/ai-math): Brief description of the problem solved and the impact (e.g., "Achieved 95% accuracy in...").
 *   [**Project Name 2**](https://github.com/your-username/repo2): Brief description of the architecture used (e.g., "Transformer-based approach for...").
 
 ---
