@@ -6,6 +6,16 @@
 
 ---
 
+### 👨‍💻 ABOUT ME
+
+- 🎓 I'm a researcher focused on **Computer Vision** and **Deep Learning**.
+- 🧠 I work with **CNNs, YOLO, Object Detection, and Image Classification**.
+- 🛠️ My main tools include **Python, PyTorch, OpenCV, **.
+- 🚀 Currently improving my skills in **Model Optimization and Advanced Computer Vision**.
+- 📫 You can reach me at: **aliasghar.deeplearning.26@gmail.com**
+
+---
+
 ### 🛠️ TECHNICAL EXPERTISE
 
 #### 🧠 Artificial Intelligence & Math
