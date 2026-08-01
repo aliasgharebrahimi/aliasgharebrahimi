@@ -25,6 +25,17 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+### 🎯 CORE COMPETENCIES
+
+**Computer Vision & Deep Learning**
+- 🧠 **Architectures:** CNN, YOLO (v5/v8), ResNet, Transformers
+- 🛠️ **Techniques:** Data Augmentation, Transfer Learning, Fine-tuning
+- 📉 **Training:** Dropout, Batch Normalization, Hyperparameter Optimization
+- 🔍 **Tasks:** Object Detection, Semantic Segmentation, Image Classification
+
+---
+
 ### 🚀 FEATURED PROJECTS
 | name            | description | Tech Stack          |
 |:----------------| :----: |:--------------------|
