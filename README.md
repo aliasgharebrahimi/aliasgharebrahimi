@@ -1,4 +1,4 @@
-# 👋 Ali Asghar Ebrahimi
+# 👋 Hi, I'm Ali Asghar Ebrahimi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=AI+Researcher;Deep+Learning+Specialist;Computer+Vision+Engineer" alt="Typing SVG" />
