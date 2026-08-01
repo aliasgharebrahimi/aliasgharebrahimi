@@ -25,6 +25,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### 🚀 FEATURED PROJECTS
+| name            | description | Tech Stack          |
+|:----------------| :----: |:--------------------|
+| **[ai-math](https://github.com/aliasgharebrahimi/ai-math)** | Understanding the mathematics required for deep learning, implementing it in code, and applying it to models.| torch - matploatlib |
 
 ---
 
