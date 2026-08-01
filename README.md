@@ -35,7 +35,8 @@
 ### 📊 ANALYTICS & ACTIVITY
 
 <div align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=aliasgharebrahimi&theme=dracula" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgharebrahimi&theme=dracula" alt="GitHub Streak" />
