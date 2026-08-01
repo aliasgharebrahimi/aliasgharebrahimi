@@ -46,6 +46,12 @@
 
 ---
 
+### 🌱 CURRENTLY LEARNING
+
+- Differential
+
+---
+
 ### 🤝 CONNECT WITH ME
 
 <div align="center">
