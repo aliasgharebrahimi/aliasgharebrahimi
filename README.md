@@ -56,7 +56,8 @@
 ### 📊 ANALYTICS ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=dracula" alt="GitHub Stats" />
+
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=aliasgharebrahimi&theme=dracula" alt="Top Languages" />
   <br><br>
