@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 ANALYTICS & ACTIVITY
+### 📊 ANALYTICS ACTIVITY
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=dracula" alt="GitHub Stats" />
