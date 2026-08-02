@@ -68,23 +68,32 @@
 
 ---
 
-### 🌱 CURRENTLY LEARNING
-
-- Differential
-
----
-
-### 🤝 CONNECT WITH ME
+### 🌐 Connect & Explore
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-asghar-ebrahimi-686276421/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aliasgharebrahimi26)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32938069/aliasgharebrahimi)
+&nbsp;
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aliasgharebrahimi.github.io/)
+&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliasghar.deeplearning.26@gmail.com)
 
-<br/>
+</div>
+
+### 🏆 Technical Presence
+
+<div align="center">
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aliasgharebrahimi26)
+&nbsp;
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32938069/aliasgharebrahimi)
+
+</div>
+
+<br>
+
+<div align="center">
 
 ![Views](https://komarev.com/ghpvc/?username=aliasgharebrahimi&color=00FFCC&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
