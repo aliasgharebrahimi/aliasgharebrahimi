@@ -57,12 +57,7 @@
 
 <div align="center">
 
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=aliasgharebrahimi&theme=dracula" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgharebrahimi&theme=dracula" alt="GitHub Streak" />
-  <br><br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=vision-friendly-dark)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliasgharebrahimi&theme=dracula" alt="Activity Graph" />
 </div>
 
