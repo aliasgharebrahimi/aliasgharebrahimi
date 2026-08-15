@@ -47,9 +47,10 @@
 ---
 
 ### 🚀 FEATURED PROJECTS
-| name            | description | Tech Stack          |
-|:----------------| :----: |:--------------------|
-| **[ai-math](https://github.com/aliasgharebrahimi/ai-math)** | Understanding the mathematics required for deep learning, implementing it in code, and applying it to models.| torch - matploatlib |
+| name                                                               | description | Tech Stack          |
+|:-------------------------------------------------------------------| :----: |:--------------------|
+| **[ai-math](https://github.com/aliasgharebrahimi/ai-math)**        | Understanding the mathematics required for deep learning, implementing it in code, and applying it to models.| torch - matploatlib |
+| **[MNISTVision](https://github.com/aliasgharebrahimi/MNISVision)** | Handwritten digit recognition model with highly robust optimization and stunning accuracy. | torch - matploatlib |
 
 ---
 
@@ -57,7 +58,7 @@
 
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=vision-friendly-dark)
+  ![Summary Card](https://github-profile-summary-cards.vercel.app/api?username=aliasgharebrahimi&theme=dark)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliasgharebrahimi&theme=dracula" alt="Activity Graph" />
 </div>
 
