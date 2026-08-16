@@ -79,19 +79,23 @@
 
 ---
 
-### 🏆 GITHUB TROPHIES
+### 🛠️ TECH STACK
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliasgharebrahimi&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,numpy,matplotlib,sklearn,pandas&perline=7" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,pycharm,linux&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai,google,microsoft,jupyter&perline=4" />
+</p>
 ---
 
 ### 🧩 TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,docker,git,github,vscode,linux&perline=9" />
-</p>
 
 ---
 
