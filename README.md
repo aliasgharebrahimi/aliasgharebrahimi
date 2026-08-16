@@ -56,11 +56,14 @@
 
 ### 📊 ANALYTICS ACTIVITY
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=tokyonight" />
+</p>
 
-  ![Summary Card](https://github-profile-summary-cards.vercel.app/api?username=aliasgharebrahimi&theme=dark)
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliasgharebrahimi&theme=dracula" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
