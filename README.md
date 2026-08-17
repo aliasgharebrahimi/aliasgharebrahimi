@@ -12,30 +12,7 @@
 * 🧠 I work with **CNNs, YOLO, Object Detection, and Image Classification**.
 * 🛠️ My main tools include **Python, PyTorch, OpenCV, **.
 * 🚀 Currently improving my skills in **Model Optimization and Advanced Computer Vision**.
-* 📫 You can reach me at: **[aliasghar.deeplearning.26@gmail.com](mailto:aliasghar.deeplearning.26@gmail.com)**
-
----
-
-### 🛠️ TECHNICAL EXPERTISE
-
-#### 🧠 Artificial Intelligence & Math
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2D243355.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-#### 💻 Development Environment
-
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge\&logo=pycharm\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+* 📫 You can reach me at: **[aliasghare1.ai@gmail.com](mailto:aliasghare1.ai@gmail.com)**
 
 ---
 
@@ -50,12 +27,123 @@
 
 ---
 
-### 🚀 FEATURED PROJECTS
+### 🛠️ My Tools & Technologies
 
-| name                                                                |                                                  description                                                  | Tech Stack          |
-| :------------------------------------------------------------------ | :-----------------------------------------------------------------------------------------------------------: | :------------------ |
-| **[ai-math](https://github.com/aliasgharebrahimi/ai-math)**         | Understanding the mathematics required for deep learning, implementing it in code, and applying it to models. | torch - matploatlib |
-| **[MNISTVision](https://github.com/aliasgharebrahimi/MNISTVision)** |           Handwritten digit recognition model with highly robust optimization and stunning accuracy.          | torch - matploatlib |
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120" height="120">
+<img src="https://skillicons.dev/icons?i=python" width="60" height="60">
+<br><b>Python</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60">
+<br><b>PyTorch</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://skillicons.dev/icons?i=opencv" width="60" height="60">
+<br><b>OpenCV</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://skillicons.dev/icons?i=pycharm" width="60" height="60">
+<br><b>PyCharm</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120" height="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60">
+<br><b>Scikit-learn</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60" height="60">
+<br><b>Pandas</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" height="60">
+<br><b>Matplotlib</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://skillicons.dev/icons?i=numpy" width="60" height="60">
+<br><b>NumPy</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120" height="120">
+<img src="https://wandb.ai/favicon.ico" width="60" height="60">
+<br><b>W&B</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="60" height="60">
+<br><b>VS Code</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60">
+<br><b>GitHub</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://camo.githubusercontent.com/cf17c3a76d64d3e711afd71f87cbf8155d2f9b453c23770f393351a95d513cbe/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769746c61622e737667" width="60" height="60">
+<br><b>GitLab</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120" height="120">
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="60" height="60">
+<br><b>Docker</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" width="60" height="60">
+<br><b>GNU Bash</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="60" height="60">
+<br><b>Linux</b>
+</td>
+
+<td align="center" width="120" height="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="60" height="60">
+<br><b>ChatGPT</b>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+### 📌 FEATURED REPOSITORIES
+
+<p align="center">
+  <a href="https://github.com/aliasgharebrahimi/ai-math">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aliasgharebrahimi&repo=ai-math&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aliasgharebrahimi/MNISTVision">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aliasgharebrahimi&repo=MNISTVision&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -78,27 +166,6 @@
 </p>
 
 ---
-
-### 🛠️ TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,numpy,matplotlib,sklearn,pandas&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,pycharm,linux&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=openai,google,microsoft,jupyter&perline=4" />
-</p>
----
-
-### 🧩 TECH STACK
-
-
----
-
 ### 📈 ACTIVITY GRAPH
 
 <p align="center">
@@ -107,18 +174,7 @@
 
 ---
 
-### 📌 FEATURED REPOSITORIES
 
-<p align="center">
-  <a href="https://github.com/aliasgharebrahimi/ai-math">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aliasgharebrahimi&repo=ai-math&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/aliasgharebrahimi/MNISTVision">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=aliasgharebrahimi&repo=MNISTVision&theme=tokyonight" />
-  </a>
-</p>
-
----
 
 ### ⏱️ CODING ACTIVITY
 
