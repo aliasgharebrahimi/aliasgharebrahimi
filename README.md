@@ -1,4 +1,3 @@
-```markdown
 <!-- ===================================================== -->
 <!--                    PROFILE HEADER                     -->
 <!-- ===================================================== -->
@@ -253,4 +252,3 @@ aliasghare1.ai@gmail.com
 Research · Engineering · Experimentation
 
 </div>
-```
