@@ -1,24 +1,31 @@
+```markdown
 <!-- ===================================================== -->
-<!--                  PROFILE HEADER                       -->
+<!--                    PROFILE HEADER                     -->
 <!-- ===================================================== -->
 
-<h1 align="center">Hi, I'm Ali Asghar Ebrahimi</h1>
+<div align="center">
 
-<h3 align="center">
-  Deep Learning / Computer Vision Researcher/Engineer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:172554,100:312E81&height=180&section=header&text=Ali%20Asghar%20Ebrahimi&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=70&descSize=17" width="100%" />
 
-<p align="center">
-  Driven by the mathematical foundations of deep learning, passionate about neural network research and computer vision, and motivated by solving challenging research and engineering problems through building robust, high-quality AI systems.
+<h3>Deep Learning / Computer Vision Researcher/Engineer</h3>
+
+<p>
+Driven by the mathematical foundations of deep learning, passionate about neural network research and computer vision, and motivated by solving challenging research and engineering problems through building robust, high-quality AI systems.
 </p>
 
-<p align="center">
-  <a href="[LINKEDIN URL]">LinkedIn</a>
-  ·
-  <a href="[aliasghare1.ai@gmail.com]">Email</a>
-  ·
-  <a href="[aliasgharebrahimi.github.io]">Website</a>
+<p>
+<a href="[LINKEDIN URL]">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:aliasghare1.ai@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://aliasgharebrahimi.github.io">
+<img src="https://img.shields.io/badge/Website-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 </p>
+
+</div>
 
 ---
 
@@ -59,20 +66,43 @@ I value mathematical rigor, research-driven development, and systematic experime
 
 ### Programming Languages
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,js&theme=dark" />
+
+</div>
+
 Python · C# · JavaScript
 
 ### Machine Learning & Deep Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+
+</div>
 
 Pytorch · JTX · Torchvision · Torchinfo
 
 ### Engineering & Infrastructure
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,linux,docker,cuda,github&theme=dark" />
+
+</div>
+
 Git · Linox · Docker · CUDA . Github
 
 ### Experimentation & Research
 
-W&B · Matplotlib
-· ArXiv . Jupyter Notebook . Colab
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=matplotlib,jupyter&theme=dark" />
+
+</div>
+
+W&B · Matplotlib · ArXiv . Jupyter Notebook . Colab
 
 ---
 
@@ -96,6 +126,22 @@ My primary areas of interest include:
 <!-- ===================================================== -->
 
 ## Selected Projects
+
+<div align="center">
+
+<a href="https://github.com/aliasgharebrahimi/MNISTVision">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aliasgharebrahimi&repo=MNISTVision&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/aliasgharebrahimi/Axiom">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aliasgharebrahimi&repo=Axiom&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/aliasgharebrahimi/MNISVision-Numpy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aliasgharebrahimi&repo=MNISVision-Numpy&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ### [MNISTVision](https://github.com/aliasgharebrahimi/MNISTVision)
 
@@ -150,6 +196,8 @@ I believe in building machine learning systems that are:
 - **Learning:** Deep Learning concepts through studying research papers and technical documentation.
 - **Building:** A deeper understanding of neural networks through hands-on implementation, experimentation, and research.
 
+---
+
 <!-- ===================================================== -->
 <!--                   COLLABORATION                       -->
 <!-- ===================================================== -->
@@ -172,36 +220,25 @@ aliasghare1.ai@gmail.com
 <!--                   GITHUB ANALYTICS                    -->
 <!-- ===================================================== -->
 
+<div align="center">
+
 ## GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=aliasgharebrahimi&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aliasgharebrahimi&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=aliasgharebrahimi&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+### Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aliasgharebrahimi&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" />
+
+</div>
 
 ---
 
@@ -209,8 +246,11 @@ aliasghare1.ai@gmail.com
 <!--                       FOOTER                          -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <sub>
-    Research · Engineering · Experimentation
-  </sub>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:312E81&height=100&section=footer" width="100%" />
+
+Research · Engineering · Experimentation
+
+</div>
+```
