@@ -1,4 +1,3 @@
-
 <!-- ===================================================== -->
 <!--                  PROFILE HEADER                       -->
 <!-- ===================================================== -->
@@ -29,7 +28,6 @@
 
 ## About
 
-
 I am an aspiring Deep Learning Engineer with a strong interest in the mathematical foundations of machine learning, neural network architectures, and computer vision.
 
 My interests lie in understanding how deep learning models work at a fundamental level, exploring their theoretical foundations, and translating research ideas into practical, well-engineered implementations.
@@ -38,9 +36,7 @@ I enjoy studying research papers, investigating challenging problems in neural n
 
 I am particularly interested in bridging the gap between theoretical understanding, experimental research, and practical AI engineering.
 
-
 My work and interests revolve around:
-
 
 I value:
 
@@ -62,15 +58,19 @@ I value mathematical rigor, research-driven development, and systematic experime
 ## Technical Expertise
 
 ### Programming Languages
+
 Python · C# · JavaScript
 
 ### Machine Learning & Deep Learning
+
 Pytorch · JTX · Torchvision · Torchinfo
 
 ### Engineering & Infrastructure
+
 Git · Linox · Docker · CUDA . Github
 
 ### Experimentation & Research
+
 W&B · Matplotlib
 · ArXiv . Jupyter Notebook . Colab
 
@@ -167,6 +167,47 @@ For professional inquiries and technical discussions:
 aliasghare1.ai@gmail.com
 
 ---
+
+<!-- ===================================================== -->
+<!--                   GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
+
+## GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=aliasgharebrahimi&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aliasgharebrahimi&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                       FOOTER                          -->
+<!-- ===================================================== -->
 
 <p align="center">
   <sub>
