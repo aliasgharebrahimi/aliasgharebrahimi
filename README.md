@@ -1,10 +1,7 @@
-<!-- ===================================================== -->
-<!--                    PROFILE HEADER                     -->
-<!-- ===================================================== -->
-
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:172554,100:312E81&height=180&section=header&text=Ali%20Asghar%20Ebrahimi&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=70&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,45:172554,100:312E81&height=220&section=header&text=Ali%20Asghar%20Ebrahimi&fontSize=44&fontColor=FFFFFF&fontAlignY=42&desc=Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=66&descSize=18" width="100%" />
 
 <h3>Deep Learning / Computer Vision Researcher/Engineer</h3>
 
@@ -27,10 +24,6 @@ Driven by the mathematical foundations of deep learning, passionate about neural
 </div>
 
 ---
-
-<!-- ===================================================== -->
-<!--                       ABOUT                           -->
-<!-- ===================================================== -->
 
 ## About
 
@@ -57,57 +50,60 @@ I value mathematical rigor, research-driven development, and systematic experime
 
 ---
 
-<!-- ===================================================== -->
-<!--                TECHNICAL EXPERTISE                    -->
-<!-- ===================================================== -->
-
 ## Technical Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Programming Languages
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cs,js&theme=dark" />
-
 </div>
 
 Python · C# · JavaScript
 
+</td>
+<td width="50%" valign="top">
+
 ### Machine Learning & Deep Learning
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-
 </div>
 
 Pytorch · JTX · Torchvision · Torchinfo
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### Engineering & Infrastructure
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,linux,docker,cuda,github&theme=dark" />
-
 </div>
 
 Git · Linox · Docker · CUDA . Github
 
+</td>
+<td width="50%" valign="top">
+
 ### Experimentation & Research
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=matplotlib,jupyter&theme=dark" />
-
 </div>
 
 W&B · Matplotlib · ArXiv . Jupyter Notebook . Colab
 
----
+</td>
+</tr>
+</table>
 
-<!-- ===================================================== -->
-<!--                 RESEARCH INTERESTS                    -->
-<!-- ===================================================== -->
+---
 
 ## Research Interests
 
@@ -120,29 +116,21 @@ My primary areas of interest include:
 
 ---
 
-<!-- ===================================================== -->
-<!--                 SELECTED PROJECTS                     -->
-<!-- ===================================================== -->
-
 ## Selected Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
+<h3 align="center">
+<a href="https://github.com/aliasgharebrahimi/MNISTVision">MNISTVision</a>
+</h3>
+
+<p align="center">
 <a href="https://github.com/aliasgharebrahimi/MNISTVision">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aliasgharebrahimi&repo=MNISTVision&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Repository-MNISTVision-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://github.com/aliasgharebrahimi/Axiom">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aliasgharebrahimi&repo=Axiom&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/aliasgharebrahimi/MNISVision-Numpy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aliasgharebrahimi&repo=MNISVision-Numpy&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### [MNISTVision](https://github.com/aliasgharebrahimi/MNISTVision)
+</p>
 
 An optimized handwritten digit recognition system built around a custom neural network architecture. The project focuses on classification accuracy, computational efficiency, fast inference, and systematic experimental optimization.
 
@@ -150,7 +138,18 @@ An optimized handwritten digit recognition system built around a custom neural n
 - **Technologies:** Python, PyTorch, Weights & Biases (W&B)
 - **Repository:** [MNISTVision](https://github.com/aliasgharebrahimi/MNISTVision)
 
-### [Axiom](https://github.com/aliasgharebrahimi/Axiom)
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">
+<a href="https://github.com/aliasgharebrahimi/Axiom">Axiom</a>
+</h3>
+
+<p align="center">
+<a href="https://github.com/aliasgharebrahimi/Axiom">
+<img src="https://img.shields.io/badge/Repository-Axiom-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 A mathematical learning resource focused on the foundations of deep learning. It explores essential mathematical concepts, including linear algebra, differential calculus, optimization, statistics, and probability, with practical explanations and PyTorch implementations.
 
@@ -158,7 +157,18 @@ A mathematical learning resource focused on the foundations of deep learning. It
 - **Technologies:** Python, PyTorch, NumPy, Matplotlib
 - **Repository:** [Axiom](https://github.com/aliasgharebrahimi/Axiom)
 
-### [MNISVision-Numpy](https://github.com/aliasgharebrahimi/MNISVision-Numpy)
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">
+<a href="https://github.com/aliasgharebrahimi/MNISVision-Numpy">MNISVision-Numpy</a>
+</h3>
+
+<p align="center">
+<a href="https://github.com/aliasgharebrahimi/MNISVision-Numpy">
+<img src="https://img.shields.io/badge/Repository-MNISVision--Numpy-0891B2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 A from-scratch implementation of a handwritten digit recognition model using NumPy. The project focuses on understanding the underlying computations of neural networks through implementation without relying on deep learning frameworks.
 
@@ -166,11 +176,11 @@ A from-scratch implementation of a handwritten digit recognition model using Num
 - **Technologies:** Python, NumPy
 - **Repository:** [MNISVision-Numpy](https://github.com/aliasgharebrahimi/MNISVision-Numpy)
 
----
+</td>
+</tr>
+</table>
 
-<!-- ===================================================== -->
-<!--                ENGINEERING PRINCIPLES                 -->
-<!-- ===================================================== -->
+---
 
 ## Engineering Principles
 
@@ -184,10 +194,6 @@ I believe in building machine learning systems that are:
 
 ---
 
-<!-- ===================================================== -->
-<!--                  CURRENT FOCUS                        -->
-<!-- ===================================================== -->
-
 ## Current Focus
 
 - **Working on:** `MNISVision-Numpy` — Implementing and improving a handwritten digit recognition model using NumPy.
@@ -196,10 +202,6 @@ I believe in building machine learning systems that are:
 - **Building:** A deeper understanding of neural networks through hands-on implementation, experimentation, and research.
 
 ---
-
-<!-- ===================================================== -->
-<!--                   COLLABORATION                       -->
-<!-- ===================================================== -->
 
 ## Collaboration
 
@@ -211,43 +213,49 @@ I'm interested in collaborating on:
 
 For professional inquiries and technical discussions:
 
-aliasghare1.ai@gmail.com
+**aliasghare1.ai@gmail.com**
 
 ---
-
-<!-- ===================================================== -->
-<!--                   GITHUB ANALYTICS                    -->
-<!-- ===================================================== -->
 
 <div align="center">
 
 ## GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=aliasgharebrahimi&theme=tokyonight&hide_border=true" />
-
-<br/>
+<table>
+<tr>
+<td width="50%">
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" />
+</td>
+<td width="50%">
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="100%" />
+</td>
+<td width="50%">
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" />
+</td>
+</tr>
+</table>
 
 ### Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aliasgharebrahimi&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" />
+<img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
 ---
 
-<!-- ===================================================== -->
-<!--                       FOOTER                          -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:312E81&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,100:312E81&height=120&section=footer" width="100%" />
 
 Research · Engineering · Experimentation
 
