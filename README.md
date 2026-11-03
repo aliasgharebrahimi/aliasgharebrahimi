@@ -1,36 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,45:1E3A8A,100:6D28D9&height=230&section=header&text=Ali%20Asghar%20Ebrahimi&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=65&descSize=18" width="100%" alt="Ali Asghar Ebrahimi — Deep Learning and Computer Vision" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1D4ED8,100:7C3AED&height=240&section=header&text=Ali%20Asghar%20Ebrahimi&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Deep%20Learning%20%20%7C%20%20Computer%20Vision%20%20%7C%20%20AI%20Research&descAlignY=62&descSize=17" width="100%" alt="Ali Asghar Ebrahimi — deep learning, computer vision, and AI research" />
 
-### Deep Learning Research · Computer Vision · AI Engineering
+### Deep Learning Research Engineer · Computer Vision
 
-I explore the mathematical foundations of deep learning and build clear, reproducible implementations of machine learning ideas.
+I study how deep learning models work, explore neural network architectures, and turn research ideas into robust, reproducible implementations.
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliasghare1.ai@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliasghare1.ai@gmail.com)
 [![Website](https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aliasgharebrahimi.github.io)
 
 </div>
 
 ---
 
+## About
+
+My work sits at the intersection of mathematical understanding, experimental research, and practical AI engineering. I enjoy reading papers, investigating difficult problems in neural networks, and building modular systems whose experiments and results can be reproduced.
+
 ## Areas of expertise
 
-| Deep learning | Computer vision | Scientific computing |
-| --- | --- | --- |
-| Neural networks and CNNs<br>Mathematical foundations and optimization<br>Forward and backpropagation<br>Loss functions and gradient descent<br>Vanishing and exploding gradients; gradient clipping<br>Weight initialization and batch normalization<br>Training stability and model generalization<br>Efficient learning and model evaluation<br>Accuracy, precision, recall, and F1 | Image classification and handwritten digit recognition<br>Image processing and preprocessing<br>Feature extraction<br>Computer vision pipelines<br>Model evaluation | NumPy<br>Matplotlib<br>Pandas<br>scikit-learn |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Engineering toolkit
+### Deep learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- Neural networks and convolutional neural networks (CNNs)
+- Mathematical foundations of machine learning
+- Forward propagation, backpropagation, and loss functions
+- Optimization, gradient descent, and gradient analysis
+- Vanishing and exploding gradients; gradient clipping
+- Weight initialization, including Kaiming initialization
+- Batch normalization and training stability
+- Training dynamics, model evaluation, and generalization
+- Efficient deep learning
+- Classification metrics: accuracy, precision, recall, and F1 score
 
-**Also:** HTML, CSS, Torchvision, Torchinfo, CUDA, Jupyter, Google Colab, Weights & Biases
+</td>
+<td width="50%" valign="top">
+
+### Computer vision
+
+- Image classification and handwritten digit recognition
+- CNN-based image classification
+- Image processing and preprocessing
+- Feature extraction
+- Computer vision pipelines
+- Model evaluation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Scientific computing and experimentation
+
+- NumPy, Pandas, Matplotlib, and scikit-learn
+- Experiment tracking with Weights & Biases
+- Jupyter Notebook and Google Colab
+- Research paper review and controlled experimentation
+
+</td>
+<td width="50%" valign="top">
+
+### Software and infrastructure
+
+- **Languages:** Python, C#, JavaScript, HTML, CSS
+- **Deep learning:** PyTorch, Torchvision, Torchinfo
+- **Systems:** Linux, Docker, CUDA
+- **Workflow:** Git, GitHub, terminal
+
+</td>
+</tr>
+</table>
+
+### Tools I use
+
+<p>
+<img src="https://skillicons.dev/icons?i=py,pytorch,js,cs,html,css,git,github,linux,docker&perline=10" alt="Python, PyTorch, JavaScript, C sharp, HTML, CSS, Git, GitHub, Linux, and Docker" />
+</p>
 
 ## Selected projects
 
@@ -38,57 +86,92 @@ I explore the mathematical foundations of deep learning and build clear, reprodu
 <tr>
 <td width="33%" valign="top">
 
-### [MNISTVision](https://github.com/aliasgharebrahimi/MNISTVision)
+<h3 align="center"><a href="https://github.com/aliasgharebrahimi/MNISTVision">MNISTVision</a></h3>
 
-Handwritten digit recognition with a custom neural network, model optimization, and systematic experiments.
+<p align="center"><a href="https://github.com/aliasgharebrahimi/MNISTVision"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore MNISTVision repository" /></a></p>
 
-**Python · PyTorch · W&B**
+Handwritten digit recognition with a custom neural network. Focus areas include accuracy, efficient inference, model optimization, and systematic experimentation.
 
-</td>
-<td width="33%" valign="top">
-
-### [Axiom](https://github.com/aliasgharebrahimi/Axiom)
-
-A learning resource for deep learning mathematics, with explanations and practical implementations.
-
-**Python · PyTorch · NumPy · Matplotlib**
+**Stack:** Python · PyTorch · Weights & Biases
 
 </td>
 <td width="33%" valign="top">
 
-### [MNISVision-Numpy](https://github.com/aliasgharebrahimi/MNISVision-Numpy)
+<h3 align="center"><a href="https://github.com/aliasgharebrahimi/Axiom">Axiom</a></h3>
 
-A from-scratch handwritten digit recognition project for exploring neural network computations with NumPy.
+<p align="center"><a href="https://github.com/aliasgharebrahimi/Axiom"><img src="https://img.shields.io/badge/Explore-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Axiom repository" /></a></p>
 
-**Python · NumPy**
+A mathematical learning resource for deep learning, covering linear algebra, calculus, optimization, statistics, and probability through explanations and practical implementations.
+
+**Stack:** Python · PyTorch · NumPy · Matplotlib
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/aliasgharebrahimi/MNISVision-Numpy">MNISVision-Numpy</a></h3>
+
+<p align="center"><a href="https://github.com/aliasgharebrahimi/MNISVision-Numpy"><img src="https://img.shields.io/badge/Explore-Repository-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore MNISVision-Numpy repository" /></a></p>
+
+A from-scratch handwritten digit recognition model using NumPy to explore neural network computations without a deep learning framework.
+
+**Stack:** Python · NumPy
 
 </td>
 </tr>
 </table>
 
-## GitHub at a glance
+## Research interests
+
+```mermaid
+flowchart LR
+    A[Mathematical foundations] --> B[Neural network architectures]
+    B --> C[Computer vision]
+    C --> D[Controlled experiments]
+    D --> E[Robust, reproducible systems]
+    E --> A
+```
+
+- Deep learning theory and the mathematical principles behind learning algorithms
+- Neural network structures, learning mechanisms, and architecture design
+- Visual representation learning and image understanding
+- Optimization, training dynamics, and model stability
+- Evaluating research methods and translating them into practical systems
+
+## GitHub charts
 
 <div align="center">
 
 <a href="https://github.com/aliasgharebrahimi">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&hide_border=true&bg_color=0B1020&title_color=93C5FD&text_color=CBD5E1&icon_color=A78BFA" alt="GitHub profile statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=93C5FD&text_color=CBD5E1&icon_color=A78BFA" alt="GitHub profile statistics" />
 </a>
 <a href="https://github.com/aliasgharebrahimi">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&hide_border=true&bg_color=0B1020&title_color=93C5FD&text_color=CBD5E1" alt="Most-used programming languages in public repositories" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&hide_border=true&bg_color=0B1020&title_color=93C5FD&text_color=CBD5E1" alt="Programming language chart from public repositories" />
 </a>
+
+</div>
+
+## Engineering principles
+
+<div align="center">
+
+| Reproducible | Modular | Reliable | Transparent | Research-driven |
+| :---: | :---: | :---: | :---: | :---: |
+| Traceable experiments | Maintainable components | Careful evaluation | Honest reporting | Decisions grounded in evidence |
 
 </div>
 
 ## Current focus
 
-Improving `MNISVision-Numpy` and studying deep learning through implementation, controlled experiments, and research papers.
+Improving `MNISVision-Numpy` and strengthening my understanding of deep learning through implementation, experiments, and research papers.
 
 ## Collaboration
 
-Interested in deep learning, computer vision, and AI engineering projects. [Get in touch](mailto:aliasghare1.ai@gmail.com).
+I’m interested in working on deep learning, computer vision, and AI engineering projects. For professional inquiries and technical discussions, [send me an email](mailto:aliasghare1.ai@gmail.com).
 
 <div align="center">
 
 *Research · Engineering · Experimentation*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:111827&height=110&section=footer" width="100%" alt="" />
 
 </div>
