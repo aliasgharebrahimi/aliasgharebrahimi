@@ -123,14 +123,9 @@ A from-scratch handwritten digit recognition implementation using NumPy. The pro
 
 ## Research interests
 
-```mermaid
-flowchart LR
-    A[Mathematical foundations] --> B[Neural network architectures]
-    B --> C[Computer vision]
-    C --> D[Controlled experiments]
-    D --> E[Reproducible implementations]
-    E --> A
-```
+<p align="center">
+  <img src="./assets/research-workflow.svg" width="100%" alt="Research workflow: understand theory, implement, experiment, evaluate, and refine" />
+</p>
 
 - **Deep learning foundations:** the mathematical principles and theoretical ideas underlying learning algorithms
 - **Neural network architectures:** how model structure and learning mechanisms influence behavior
@@ -149,18 +144,11 @@ flowchart LR
 | **Reproducibility** | Make experiments, code, and results traceable and repeatable. |
 | **Transparent reporting** | Describe results honestly, including limitations and trade-offs. |
 
-## GitHub activity
+## Expertise map
 
-<div align="center">
-
-<a href="https://github.com/aliasgharebrahimi">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=aliasgharebrahimi&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=93C5FD&text_color=CBD5E1&icon_color=A78BFA" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/aliasgharebrahimi">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharebrahimi&layout=compact&hide_border=true&bg_color=0B1020&title_color=93C5FD&text_color=CBD5E1" alt="Most-used languages across public repositories" />
-</a>
-
-</div>
+<p align="center">
+  <img src="./assets/expertise-map.svg" width="100%" alt="Expertise map connecting deep learning, computer vision, mathematical foundations, and research engineering" />
+</p>
 
 ## Current focus
 

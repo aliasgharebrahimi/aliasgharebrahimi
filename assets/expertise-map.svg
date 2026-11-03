@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Deep learning and computer vision expertise map</title>
+  <desc id="desc">Four connected areas: deep learning, computer vision, mathematical foundations, and research engineering.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#1e1b4b"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <text x="600" y="48" text-anchor="middle" fill="#f8fafc" font-family="Arial,sans-serif" font-size="23" font-weight="700">AREAS OF EXPERTISE</text>
+  <g stroke="url(#line)" stroke-width="3" fill="none"><path d="M600 210L300 145"/><path d="M600 210L900 145"/><path d="M600 210L300 320"/><path d="M600 210L900 320"/></g>
+  <circle cx="600" cy="210" r="67" fill="#312e81" stroke="#a78bfa" stroke-width="3"/>
+  <text x="600" y="204" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">MACHINE</text><text x="600" y="228" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">LEARNING</text>
+  <g font-family="Arial,sans-serif">
+    <g><rect x="70" y="85" width="370" height="120" rx="18" fill="#111f3d" stroke="#38bdf8" stroke-width="2"/><text x="100" y="120" fill="#7dd3fc" font-size="18" font-weight="700">DEEP LEARNING</text><text x="100" y="151" fill="#e2e8f0" font-size="14">Neural networks · CNNs · backpropagation</text><text x="100" y="177" fill="#cbd5e1" font-size="14">Optimization · training stability · evaluation</text></g>
+    <g><rect x="760" y="85" width="370" height="120" rx="18" fill="#111f3d" stroke="#818cf8" stroke-width="2"/><text x="790" y="120" fill="#a5b4fc" font-size="18" font-weight="700">COMPUTER VISION</text><text x="790" y="151" fill="#e2e8f0" font-size="14">Image classification · preprocessing</text><text x="790" y="177" fill="#cbd5e1" font-size="14">Feature extraction · model evaluation</text></g>
+    <g><rect x="70" y="260" width="370" height="120" rx="18" fill="#111f3d" stroke="#a78bfa" stroke-width="2"/><text x="100" y="295" fill="#c4b5fd" font-size="18" font-weight="700">MATHEMATICAL FOUNDATIONS</text><text x="100" y="326" fill="#e2e8f0" font-size="14">Linear algebra · calculus · probability</text><text x="100" y="352" fill="#cbd5e1" font-size="14">Statistics · gradients · numerical methods</text></g>
+    <g><rect x="760" y="260" width="370" height="120" rx="18" fill="#111f3d" stroke="#c084fc" stroke-width="2"/><text x="790" y="295" fill="#e9d5ff" font-size="18" font-weight="700">RESEARCH ENGINEERING</text><text x="790" y="326" fill="#e2e8f0" font-size="14">Reproducible experiments · modular code</text><text x="790" y="352" fill="#cbd5e1" font-size="14">Paper review · tracking · clear reporting</text></g>
+  </g>
+</svg>
