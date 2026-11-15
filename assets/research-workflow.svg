@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Research workflow</title>
+  <desc id="desc">A five-step cycle from mathematical foundations to reproducible implementation, experimentation, and refinement.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172554"/></linearGradient>
+    <linearGradient id="stroke" x1="0" x2="1"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5 0 10z" fill="#a78bfa"/></marker>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <text x="600" y="48" text-anchor="middle" fill="#f8fafc" font-family="Arial,sans-serif" font-size="23" font-weight="700">FROM THEORY TO REPRODUCIBLE RESULTS</text>
+  <g fill="none" stroke="#a78bfa" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M235 155H285"/><path d="M460 155H510"/><path d="M685 155H735"/><path d="M910 155H960"/>
+  </g>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <g><rect x="45" y="95" width="190" height="120" rx="18" fill="#172554" stroke="#3b82f6" stroke-width="2"/><text x="140" y="135" fill="#93c5fd" font-size="14" font-weight="700">01</text><text x="140" y="165" fill="#fff" font-size="17" font-weight="700">Understand</text><text x="140" y="190" fill="#cbd5e1" font-size="13">Theory · papers · math</text></g>
+    <g><rect x="285" y="95" width="175" height="120" rx="18" fill="#172554" stroke="#6366f1" stroke-width="2"/><text x="372" y="135" fill="#a5b4fc" font-size="14" font-weight="700">02</text><text x="372" y="165" fill="#fff" font-size="17" font-weight="700">Implement</text><text x="372" y="190" fill="#cbd5e1" font-size="13">Clear · modular · testable</text></g>
+    <g><rect x="510" y="95" width="175" height="120" rx="18" fill="#172554" stroke="#8b5cf6" stroke-width="2"/><text x="597" y="135" fill="#c4b5fd" font-size="14" font-weight="700">03</text><text x="597" y="165" fill="#fff" font-size="17" font-weight="700">Experiment</text><text x="597" y="190" fill="#cbd5e1" font-size="13">Control · track · compare</text></g>
+    <g><rect x="735" y="95" width="175" height="120" rx="18" fill="#172554" stroke="#a855f7" stroke-width="2"/><text x="822" y="135" fill="#d8b4fe" font-size="14" font-weight="700">04</text><text x="822" y="165" fill="#fff" font-size="17" font-weight="700">Evaluate</text><text x="822" y="190" fill="#cbd5e1" font-size="13">Metrics · limits · behavior</text></g>
+    <g><rect x="960" y="95" width="195" height="120" rx="18" fill="#172554" stroke="#c084fc" stroke-width="2"/><text x="1057" y="135" fill="#e9d5ff" font-size="14" font-weight="700">05</text><text x="1057" y="165" fill="#fff" font-size="17" font-weight="700">Refine</text><text x="1057" y="190" fill="#cbd5e1" font-size="13">Reliable · reproducible</text></g>
+  </g>
+  <path d="M1055 235 C1055 270 145 270 145 235" fill="none" stroke="url(#stroke)" stroke-width="2" stroke-dasharray="6 7" marker-end="url(#arrow)"/>
+</svg>
